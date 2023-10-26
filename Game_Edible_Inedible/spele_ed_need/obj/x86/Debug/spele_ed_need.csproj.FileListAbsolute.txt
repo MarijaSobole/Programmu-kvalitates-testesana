@@ -1,0 +1,10 @@
+C:\Users\marij\Desktop\Projektu_sagataves_C#\Pr4_Games\Game_Edible_Inedible\spele_ed_need\bin\Debug\spele_ed_need.exe.config
+C:\Users\marij\Desktop\Projektu_sagataves_C#\Pr4_Games\Game_Edible_Inedible\spele_ed_need\bin\Debug\spele_ed_need.exe
+C:\Users\marij\Desktop\Projektu_sagataves_C#\Pr4_Games\Game_Edible_Inedible\spele_ed_need\bin\Debug\spele_ed_need.pdb
+C:\Users\marij\Desktop\Projektu_sagataves_C#\Pr4_Games\Game_Edible_Inedible\spele_ed_need\obj\x86\Debug\spele_ed_need.csproj.AssemblyReference.cache
+C:\Users\marij\Desktop\Projektu_sagataves_C#\Pr4_Games\Game_Edible_Inedible\spele_ed_need\obj\x86\Debug\spele_ed_need.Form1.resources
+C:\Users\marij\Desktop\Projektu_sagataves_C#\Pr4_Games\Game_Edible_Inedible\spele_ed_need\obj\x86\Debug\spele_ed_need.Properties.Resources.resources
+C:\Users\marij\Desktop\Projektu_sagataves_C#\Pr4_Games\Game_Edible_Inedible\spele_ed_need\obj\x86\Debug\spele_ed_need.csproj.GenerateResource.cache
+C:\Users\marij\Desktop\Projektu_sagataves_C#\Pr4_Games\Game_Edible_Inedible\spele_ed_need\obj\x86\Debug\spele_ed_need.csproj.CoreCompileInputs.cache
+C:\Users\marij\Desktop\Projektu_sagataves_C#\Pr4_Games\Game_Edible_Inedible\spele_ed_need\obj\x86\Debug\spele_ed_need.exe
+C:\Users\marij\Desktop\Projektu_sagataves_C#\Pr4_Games\Game_Edible_Inedible\spele_ed_need\obj\x86\Debug\spele_ed_need.pdb
